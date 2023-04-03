@@ -1,6 +1,6 @@
 body {
-    background: #18191A;
-    color: #fff;
+    background: #e5e5e5;
+    color: #4b4b4b;
     font-family: "Roboto", sans-serif;
     padding: 0 3rem;
 }
@@ -20,10 +20,10 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     padding: 15px 45px 15px 15px;
-    background-color: #eaeaeb;
+    background-color: #e3e3e3;
+    border: 1px solid #1a1a1a;
     color: #6c6c6c;
     border-radius: 6px;
-    border:none;
     transition: all .4s;
 }
 
